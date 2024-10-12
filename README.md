@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+coffee!)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/1yk8KHQAQFyrK" width="300"/>
+<iframe src="https://giphy.com/embed/1FbU0sArGktaGGDe99" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-working-grind-1FbU0sArGktaGGDe99">via GIPHY</a></p>
 
 ## About Me 💻
 I'm a 4th-year BSIT student working on awesome web projects! 🚀  
