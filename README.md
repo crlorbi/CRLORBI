@@ -2,6 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/crlorbi?label=Follow&style=social)](https://github.com/crlorbi)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+coffee!)](https://git.io/typing-svg)
+
 
 ## About Me 💻
 I'm a 4th-year BSIT student working on awesome web projects! 🚀  
@@ -16,7 +18,6 @@ I'm a 4th-year BSIT student working on awesome web projects! 🚀
 - **Tools**: Git, VSCode, Figma, Photoshop
 
 ## GitHub Stats 📊
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=crlorbi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crlorbi&layout=compact&theme=radical)
 
 ## Connect with me! 🌐
