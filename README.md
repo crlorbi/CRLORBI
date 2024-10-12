@@ -1,12 +1,11 @@
 # Hi there! 👋 I'm Carlo
 
 [![GitHub followers](https://img.shields.io/github/followers/crlorbi?label=Follow&style=social)](https://github.com/crlorbi)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=crlorbi.visitor-badge)](https://github.com/crlorbi)
+
 
 ## About Me 💻
 I'm a 4th-year BSIT student working on awesome web projects! 🚀  
-Currently, I'm developing **UniTrade**, a marketplace app for university students.  
-- 🔭 I’m currently working on: UniTrade 🚀
+
 - 🌱 I’m learning: Frontend frameworks & system design
 - 💬 Ask me about: Web development, UI design, and tech stuff!
 - ⚡ Fun fact: I love coffee ☕, especially **Caramel Macchiato** 😋
@@ -22,4 +21,5 @@ Currently, I'm developing **UniTrade**, a marketplace app for university student
 
 ## Connect with me! 🌐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/crlorbii)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/crlorbii)
