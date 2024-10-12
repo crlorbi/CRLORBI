@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Carlo
+  # Hi there! 👋 I'm Carlo
 
 [![GitHub followers](https://img.shields.io/github/followers/crlorbi?label=Follow&style=social)](https://github.com/crlorbi)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+coffee!)](https://git.io/typing-svg)
 
-<iframe src="https://giphy.com/embed/1FbU0sArGktaGGDe99" width="480" height="480" frameBorder="0" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/1FbU0sArGktaGGDe99/giphy.gif" width="300"/>
 
 ## About Me 💻
 I'm a 4th-year BSIT student working on awesome web projects! 🚀  
