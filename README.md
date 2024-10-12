@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+coffee!)](https://git.io/typing-svg)
 
+![GitHub Light](https://github-readme-stats.vercel.app/api?username=crlorbi&show_icons=true&theme=default#gh-light-mode-only)
+![GitHub Dark](https://github-readme-stats.vercel.app/api?username=crlorbi&show_icons=true&theme=radical#gh-dark-mode-only)
 
 ## About Me 💻
 I'm a 4th-year BSIT student working on awesome web projects! 🚀  
