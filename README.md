@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+coffee!)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/1yk8KHQAQFyrK/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/1yk8KHQAQFyrK" width="300"/>
 
 ## About Me 💻
 I'm a 4th-year BSIT student working on awesome web projects! 🚀  
