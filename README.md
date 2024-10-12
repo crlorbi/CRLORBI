@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Carlo
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/crlorbi)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.visitor-badge)](https://github.com/crlorbi)
+[![GitHub followers](https://img.shields.io/github/followers/crlorbi?label=Follow&style=social)](https://github.com/crlorbi)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=crlorbi.visitor-badge)](https://github.com/crlorbi)
 
 ## About Me 💻
 I'm a 4th-year BSIT student working on awesome web projects! 🚀  
