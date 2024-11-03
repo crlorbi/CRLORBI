@@ -1,6 +1,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/crlorbi?label=Follow&style=social)](https://github.com/crlorbi)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Carlo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&center=true&vCenter=true&width=500&color=4285F4&color=DB4437&color=F4B400&color=0F9D58&lines=Hi+there!+I'm+Carlo)]
+(https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/1FbU0sArGktaGGDe99/giphy.gif" width="300"/>
 
