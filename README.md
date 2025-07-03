@@ -13,6 +13,6 @@ I'm a 4th-year BSIT student working on awesome web projects! 🚀
 ## Connect with me! 🌐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/crlorbi/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/crlorbii)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/crlorbi)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/crlorbii)
 
 ## "Strive for progress, not perfection." ✨
